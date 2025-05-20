@@ -6,6 +6,7 @@ int main (){
     int num1 , num2, result;
     try
     {
+        cout<<"hellow";
         cout<<"Enter two numbers";
         cin>>num1>>num2;
         result = num1 / num2;
